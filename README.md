@@ -53,9 +53,13 @@ online techniques to assist you produce your best bootstrap forms with validatio
 *    Anti-spam captcha 
 
 One of the most user-friendly Form Builder available today - No more hand coding, simply fast drag-n-drop form-building. Producing both complicated and basic kinds of forms is a snap with Bootstrap Form Generator !
+
 Bootstrap Form Generator is supported by both Windows (XP or higher) and Mac OS (X10.6+). You can easily change the design layout, customize colors and style to your preferences. The pre-designed color presets gives you total control to customize the color features of your form easily. You can even modify the colors for checkboxes and radio buttons as well to match the color theme of your website. 
+
 Bootstrap Form Generator comes with a preview window that gives you an idea how your changes in bootstrap form layout will show in a browser instantly. 
+
 Be it text field, paragraph field, select and multi-select drop-down menus, checkboxes, or radio buttons, all are supported by Bootstrap Form Generator. If you require some advanced detailed info such as name, address, email, website address, file uploads, password, calendar, telephone no., anti-spam capture fields, all you have to do is just indicate a field as “required” and if necessary, display a caution notice. 
+
 Another remarkable feature is the one-click to add the all-powerful Google reCapture to prevent sexy spam sent from automated bots.
 
 ### HTML Forms
@@ -68,7 +72,9 @@ Another remarkable feature is the one-click to add the all-powerful Google reCap
 *    Live validation
 
 Your forms will constantly look terrific on any desktop and modern mobile device. Bootstrap Form Generator forms have been tested thoroughly to perform and function well on multiple browsers, OS, on all old (consisting of IE6) or newest browsers, even without Javascript.
+
 All form aspects are made with CSS, with no images, so they therefore appear sharp, and show on retina displays as well as high resolution screens as pixel-perfect.
+
 If you are tired of using traditional fonts like Times New Roman and Arial, then you will love the new and free Google fonts in your form. As user types to fill form, the form validator displays tooltips in case there are any errors. It also supports HTML form validation.
 
 
@@ -92,7 +98,9 @@ The “preview and test” button is there to enable you to carry out a live test-dr
 It provides real time update on your online form activities via email, manage every hosted form, display statistics, view and export submissions. Customer details are highly protected because form field data is transmitted via a robust 256-bit SSL encryption.  
 
 ### Related
-> bootstrap form, twitter bootstrap form, bootstrap validation form, bootstrap forms examples,  bootstrap popup form
+> bootstrap form, twitter bootstrap form, bootstrap validation form, bootstrap forms examples, bootstrap popup form, twitter bootstrap form layout, jquery bootstrap form validation
+
+
 
 
 
