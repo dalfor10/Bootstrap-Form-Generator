@@ -18,8 +18,8 @@ To get started, checkout [Bootstrap Form Generator site](http://formoid.com) or 
 
 *    [Bootstrap Form Example](http://formoid.github.io/bootstrap-form.html)
 *    [Bootstrap Contact Form](http://formoid.com/demo-comment.html) 
-*    [Bootstrap Flat Form](http://www.formoid.com/demo-bug-report.html)
-*    [Responsive Twitter Bootstrap Form] (http://www.formoid.com/responsive.html)
+*    [Bootstrap Flat Form](http://formoid.com/demo-bug-report.html)
+*    [Responsive Twitter Bootstrap Form] (http://formoid.com/responsive.html)
 
 ## Quick start
 
@@ -60,7 +60,7 @@ Bootstrap Form Generator comes with a preview window that gives you an idea how 
 
 Be it text field, paragraph field, select and multi-select drop-down menus, checkboxes, or radio buttons, all are supported by Bootstrap Form Generator. If you require some advanced detailed info such as name, address, email, website address, file uploads, password, calendar, telephone no., anti-spam capture fields, all you have to do is just indicate a field as “required” and if necessary, display a caution notice. 
 
-Another remarkable feature is the one-click to add the all-powerful Google reCapture to prevent sexy spam sent from automated bots.
+Another remarkable feature is the one-click to add the all-powerful Google reCapture to prevent spam sent from automated bots.
 
 ### HTML Forms
 *    Awesome skins - Modern Flat, Metro, Bootstrap form designs with fancy color schemes
